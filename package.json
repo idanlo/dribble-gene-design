@@ -2,10 +2,18 @@
   "name": "dribble-gene-design",
   "version": "1.0.0",
   "description": "",
-  "keywords": ["dribble", "design", "css", "styled-components", "react", "react-dom"],
+  "keywords": [
+    "dribble",
+    "design",
+    "css",
+    "styled-components",
+    "react",
+    "react-dom"
+  ],
   "main": "src/index.js",
   "homepage": "https://idanlo.github.io/dribble-gene-design",
   "dependencies": {
+    "gh-pages": "^2.0.1",
     "react": "16.8.3",
     "react-dom": "16.8.3",
     "react-scripts": "2.1.8",
@@ -18,7 +26,9 @@
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test --env=jsdom",
-    "eject": "react-scripts eject"
+    "eject": "react-scripts eject",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build"
   },
   "browserslist": [
     ">0.2%",
