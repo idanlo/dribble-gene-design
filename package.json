@@ -2,8 +2,9 @@
   "name": "dribble-gene-design",
   "version": "1.0.0",
   "description": "",
-  "keywords": [],
+  "keywords": ["dribble", "design", "css", "styled-components", "react", "react-dom"],
   "main": "src/index.js",
+  "homepage": "https://idanlo.github.io/dribble-gene-design",
   "dependencies": {
     "react": "16.8.3",
     "react-dom": "16.8.3",
