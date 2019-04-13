@@ -1,13 +1,13 @@
 {
-  "main.css": "/static/css/main.d06658af.chunk.css",
-  "main.js": "/static/js/main.5c000ce5.chunk.js",
-  "main.js.map": "/static/js/main.5c000ce5.chunk.js.map",
-  "runtime~main.js": "/static/js/runtime~main.a8a9905a.js",
-  "runtime~main.js.map": "/static/js/runtime~main.a8a9905a.js.map",
-  "static/js/2.e03b355e.chunk.js": "/static/js/2.e03b355e.chunk.js",
-  "static/js/2.e03b355e.chunk.js.map": "/static/js/2.e03b355e.chunk.js.map",
-  "index.html": "/index.html",
-  "precache-manifest.86bb69645a137ae8e31beffebbf1a339.js": "/precache-manifest.86bb69645a137ae8e31beffebbf1a339.js",
-  "service-worker.js": "/service-worker.js",
-  "static/css/main.d06658af.chunk.css.map": "/static/css/main.d06658af.chunk.css.map"
+  "main.css": "/dribble-gene-design/static/css/main.d06658af.chunk.css",
+  "main.js": "/dribble-gene-design/static/js/main.5c000ce5.chunk.js",
+  "main.js.map": "/dribble-gene-design/static/js/main.5c000ce5.chunk.js.map",
+  "runtime~main.js": "/dribble-gene-design/static/js/runtime~main.c0352185.js",
+  "runtime~main.js.map": "/dribble-gene-design/static/js/runtime~main.c0352185.js.map",
+  "static/js/2.5d8c2036.chunk.js": "/dribble-gene-design/static/js/2.5d8c2036.chunk.js",
+  "static/js/2.5d8c2036.chunk.js.map": "/dribble-gene-design/static/js/2.5d8c2036.chunk.js.map",
+  "index.html": "/dribble-gene-design/index.html",
+  "precache-manifest.82ab072734f99ace79ed33f7bc56f631.js": "/dribble-gene-design/precache-manifest.82ab072734f99ace79ed33f7bc56f631.js",
+  "service-worker.js": "/dribble-gene-design/service-worker.js",
+  "static/css/main.d06658af.chunk.css.map": "/dribble-gene-design/static/css/main.d06658af.chunk.css.map"
 }
