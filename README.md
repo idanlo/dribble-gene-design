@@ -1,2 +1,1 @@
-# dribble-gene-design
-Created with CodeSandbox
+## Inspired by [Genes by Frannnk on dribble.com](https://dribbble.com/shots/6307300-Genes)
